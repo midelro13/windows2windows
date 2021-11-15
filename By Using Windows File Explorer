@@ -1,0 +1,13 @@
+Start -> Settings -> Network & Internet -> Sharing Options -> 
+
+    (Private or Public Category)
+    1. Turn On: Network Discovery
+    2. Turn On: Automatic Setup Of Network Connected Devices
+    
+    (All Networks) 
+    1. Turn Off: password protected sharing
+    
+    Save Changes
+    
+    \\localhost
+
