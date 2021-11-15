@@ -15,3 +15,6 @@ In Client:
   4. Port: 21
   5. Quickconnect
   6. Accept
+
+If the ftp remote connection does not work. Try to add a new exception on the server firewall that allows connections in the port 21. 
+If you're too impatient to start, you can just disable your server firewall and try to remote connect again, you'll get results after that.
