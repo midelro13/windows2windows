@@ -1,0 +1,17 @@
+Install Client + Server
+
+In Server:
+(Optional -> Disable Firewall)
+  1. Start FileZilla Server
+  2. Start Administrar FileZilla Server
+  3. Connect To Server -> Host: localhost -> Port: (default) -> Password: (desired) -> Ok
+  4. Server -> Configure -> FTP Server -> Add -> 127.0.0.1 -> Port: 21 -> Protocol: Default -> Apply
+  5. Users -> Add -> (username) -> Virtual Path: / -> Native Path: C:\ -> Apply
+  
+In Client:
+  1. Host: localhost (or IP)
+  2. Username: user (or desired)
+  3. Password: (desired)
+  4. Port: 21
+  5. Quickconnect
+  6. Accept
